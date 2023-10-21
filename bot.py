@@ -32,7 +32,7 @@ ADL_BOT_RQ = {}
 START_TEXT = """
 Hello {},\nI'm a Aero Telegram File or Media Aero Renmaer  with Permanent Thumbnail Support. 🔥
 
-Made by Mr. @Dlaize
+Made by Mr. @Shinpei_Xd
 """
 HELP_TEXT = """
 <b><u>Rename</u></b>
